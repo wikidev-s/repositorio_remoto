@@ -3,3 +3,5 @@ Receta Canelones:
     - paso 2: carne picada
     - paso 3: sofrio la carne
     - paso 4: relleno los canelones
+    - paso 5: meto los canelones en el horno 20 minutos a 200 grados
+    - pase 6: emplatar
